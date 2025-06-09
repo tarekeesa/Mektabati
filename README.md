@@ -7,6 +7,38 @@
 
 A comprehensive Flask-based web application for managing books from multiple sources including IMSI library, personal collections, municipal libraries, and more.
 
+<div align="center">
+  <img src="./images/logo.png" alt="Mektabati Logo" width="120">
+  <p><em>A comprehensive Flask-based web application for managing books from multiple sources</em></p>
+</div>
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+<div align="center">
+  <img src="./images/dashboard.png" alt="Mektabati Dashboard" width="700">
+  <p><em>Clean, responsive dashboard with library statistics and recent books</em></p>
+</div>
+
+### 📖 Book Management
+<div align="center">
+  <img src="./images/add-book.png" alt="Add Book Form" width="700">
+  <p><em>Intuitive form for adding books from multiple sources</em></p>
+</div>
+
+### 🔍 Advanced Search
+<div align="center">
+  <img src="./images/search-results.png" alt="Search Results" width="700">
+  <p><em>Powerful search functionality across multiple fields</em></p>
+</div>
+
+### 📊 Data Analysis
+<div align="center">
+  <img src="./images/dataframe-analysis.png" alt="DataFrame Analysis" width="700">
+  <p><em>Pandas DataFrame integration with statistical insights</em></p>
+</div>
+
+
 ## 🌟 Features
 
 - **📖 Book Management**: Add, view, edit, and organize books from multiple sources
